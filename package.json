@@ -1,0 +1,40 @@
+{
+  "name": "pg",
+  "version": "1.0.0",
+  "description": "Playground - nothing special, but for me! ",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mallond/pg.git"
+  },
+  "keywords": [
+    "postgres",
+    "rest",
+    "react",
+    "pwa",
+    "mongo",
+    "redis",
+    "zookeper",
+    "node",
+    "socket.io",
+    "aws",
+    "linux",
+    "the",
+    "world",
+    "and",
+    "everything"
+  ],
+  "author": "David Mallon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mallond/pg/issues"
+  },
+  "homepage": "https://github.com/mallond/pg#readme"
+}
