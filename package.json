@@ -4,7 +4,6 @@
   "description": "Playground - nothing special, but for me! ",
   "main": "index.js",
   "dependencies": {
-    "pg": "^7.8.0"
   },
   "devDependencies": {},
   "scripts": {
